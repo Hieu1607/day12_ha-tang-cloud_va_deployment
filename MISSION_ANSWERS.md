@@ -1,5 +1,11 @@
 # MISSION ANSWERS
 
+> **Student Name:** Nguyễn Minh Hiếu
+> **Student ID:** 2A202600401 
+> **Date:** 18/04/2026
+
+---
+
 ## Part 1: Localhost vs Production
 
 ### Exercise 1.1: Anti-patterns trong `01-localhost-vs-production/develop/app.py`
