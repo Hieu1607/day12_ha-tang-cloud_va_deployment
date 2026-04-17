@@ -33,4 +33,5 @@ Thumbs.db
 
 # ── Docker volumes (local dev) ─────────────────────��──────
 data/
+.claude/
 volumes/
