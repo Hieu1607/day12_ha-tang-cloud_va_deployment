@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - "06-lab-complete/**"
 
 jobs:
   deploy:
